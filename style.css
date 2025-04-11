@@ -1,0 +1,11 @@
+body {
+    background-color: black; 
+    color: lightgray; 
+    font-family: 'Courier New', Courier, monospace; 
+    margin-left: 20px;
+}
+
+.end {
+    font-style: italic;
+    margin-left: 10px;
+}
